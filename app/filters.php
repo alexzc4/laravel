@@ -2,7 +2,7 @@
 
 /*
 |--------------------------------------------------------------------------
-| Application & Route Filterss
+| Application & Route Filters
 |--------------------------------------------------------------------------
 |
 | Below you will find the "before" and "after" events for the application
